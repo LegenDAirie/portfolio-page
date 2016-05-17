@@ -9,6 +9,13 @@
   background-color: #3d3a37;
 }
 
+.name {
+  margin: 15px 1px 10px 40px;
+  display: inline-block;
+  font-size: 36px;
+  color: white;
+}
+
 nav a {
   font-size: 24px;
   text-decoration: none;
@@ -35,9 +42,13 @@ font-size: 20px;
 background-color: #DDD;
 }
 
+.introduction {
+  margin-bottom: 20px;
+}
+
 
 iframe {
-  border-style: none;
+  border: solid 2px #3d3a37;
   width: 100%;
 }
 
