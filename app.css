@@ -36,6 +36,11 @@ font-size: 20px;
 background-color: #DDD;
 }
 
+.introduction {
+  margin: auto;
+  width: 50%;
+}
+
 iframe {
   border: solid 2px #3d3a37;
   width: 100%;
